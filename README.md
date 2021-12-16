@@ -1,1 +1,10 @@
 # BMATexasMissionsMCMS
+
+This project is the culmination of my studies at Liberty University. I developed a single page application using the Ionic Framework with React for the front-end. For the back-end, the NoSQL database Firebase was implemented. Firebase Authentication was used for authentication purposes with three pre-set login credentials, Firebase Cloud Firestore was implemented for all data storage, and Firebase Storage was used for storing larger files such as photos.
+
+
+Overview of the Project
+
+The Baptist Missionary Association of Texas Department of Missions (BMA Texas Missions) is a state department of the Baptist Missionary Association of Texas that focuses on sending, training, equipping, and supporting missionaries in the state of Texas. The organization has been in existence for over fifty years and currently supports over 30 church planters. A number of the church planters are from foreign countries including Mexico, China, India, Nigeria, and Venezuela and work in Texas reaching people from their homelands. Because the organization has grown exponentially in the number of sent missionaries, the need for more engaged missionary care has arisen. A cloud-based missionary care management system (MCMS) provides a solution for the missionary care director, executive director of missions, missionaries, and coaches to effectively plan for retreats, submit reports, submit evaluations, and many more missionary care items vital to providing sufficient care.
+
+The business functional requirements the system performs include allowing users to login with predetermined credentials, permitting the directors to create, update, read, and delete training events, permitting directors to create, read, update, and delete retreat information, allowing missionaries to register for and view upcoming training events and retreats, being the locus for missionaries to submit their annual evaluation reports, creating a database for coaches, missionaries, and BMA Texas Missions staff to access contact information, and permitting new coaches to enter into a coaching contract.
