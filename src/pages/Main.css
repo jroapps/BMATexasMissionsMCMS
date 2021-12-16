@@ -1,0 +1,53 @@
+.ion-text-center {
+    text-align: center;
+}
+
+.ion-card-color {
+    background-color: #20447e;
+    color: white;
+}
+
+.ion-card-title-white {
+    color: white;
+    font-size: 30px;
+}
+
+ion-card {
+    min-height: 200px;
+    max-width: 500px;
+}
+
+.ion-card-text {
+    font-size: 22px;
+}
+
+p {
+    font-size: 22px !important;
+    color: #222;
+}
+
+.ion-title {
+    font-size: 32px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.ion-text-retreat h4 {
+    text-align: left !important;
+    margin-top: 20px !important;
+    margin-left: 40px !important;
+}
+
+.ion-text-update h6 {
+    margin-left: 15px !important;
+}
+
+.hr {
+    border-bottom: 1px solid #ccc;
+    margin: 10px 0;
+    width: 100%;
+}
+
+ion-img {
+    cursor: pointer;
+}

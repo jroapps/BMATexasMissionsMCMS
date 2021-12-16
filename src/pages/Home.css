@@ -1,0 +1,48 @@
+ion-split-pane {
+    --side-max-width: 250px;
+}
+
+.ion-text-center {
+    text-align: center;
+}
+
+.ion-card-color {
+    background-color: #20447e;
+    color: white;
+}
+
+.ion-card-title-white {
+    color: white;
+    font-size: 30px;
+}
+
+ion-card {
+    min-height: 250px;
+}
+
+.ion-card-text {
+    font-size: 22px;
+}
+
+ion-list-header {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.bottom {
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    right: 0;
+}
+
+.bottomButton {
+    position: fixed;
+    left: 0;
+    bottom: 70px;
+    right: 0;
+}
+
+.mymargin {
+    margin: 10px;
+}
